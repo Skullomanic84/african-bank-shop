@@ -3026,6 +3026,10 @@ button {
 ================================================== */
 /* modern header - start
 ================================================== */
+.brand_link img {
+  width: 85% !important;
+}
+
 .modern_mobilemenu_btn {
   top: 15px;
   left: 15px;
