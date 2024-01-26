@@ -2246,20 +2246,20 @@ button {
 }
 
 .action_btns_group button {
-  width: 50px;
-  height: 50px;
+  width: 35px;
+  height: 35px;
   display: block;
   color: #ffffff;
-  font-size: 16px;
-  line-height: 52px;
+  font-size: 14px;
+  line-height: 32px;
   text-align: center;
   position: relative;
   border-radius: 100%;
 }
 
 .action_btns_group button .btn_badge {
-  top: 5px;
-  right: 3px;
+  top: -9px;
+  right: -6px;
   height: 20px;
   color: #ffffff;
   font-size: 10px;
