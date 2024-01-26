@@ -2017,12 +2017,12 @@ button {
   margin-right: 8px;
 }
 .action_btns_group button {
-  width: 50px;
-  height: 50px;
+  width: 30px;
+  height: 30px;
   display: block;
   color: #ffffff;
   font-size: 16px;
-  line-height: 52px;
+  line-height: 32px;
   text-align: center;
   position: relative;
   border-radius: 100%;
@@ -2718,11 +2718,11 @@ button {
   margin-right: 8px;
 }
 .classic_ecommerce_header .action_btns_group button {
-  width: 50px;
-  height: 50px;
+  width: 30px;
+  height: 30px;
   color: #000000;
   font-size: 16px;
-  line-height: 54px;
+  line-height: 32px;
   background-color: #ffffff;
 }
 .classic_ecommerce_header.stuck .action_btns_group button {
@@ -22863,10 +22863,10 @@ blockquote .blockquote_title {
     margin-right: 5px;
   }
   .parallax_shop_header .action_btns_group button {
-    width: 45px;
-    height: 45px;
+    width: 30px;
+    height: 30px;
     font-size: 16px;
-    line-height: 45px;
+    line-height: 32px;
   }
   .parallax_shop_header .action_btns_group button.mobile_menu_btn {
     width: 45px;
@@ -23269,8 +23269,8 @@ blockquote .blockquote_title {
   /* fashion minimal shop details - end */
   /* fashion shop - start */
   .fashion_header .action_btns_group button {
-    width: 50px;
-    height: 50px;
+    width: 30px;
+    height: 30px;
     font-size: 16px;
   }
   .fashion_banner {
@@ -23424,8 +23424,8 @@ blockquote .blockquote_title {
   /* home electronic - end */
   /* home fashion - start */
   .fashion_header .action_btns_group button {
-    width: 50px;
-    height: 50px;
+    width: 30px;
+    height: 30px;
     font-size: 16px;
   }
   .action_btns_group button .btn_badge {
@@ -24040,10 +24040,10 @@ blockquote .blockquote_title {
     font-size: 60px;
   }
   .parallax_shop_header .action_btns_group button {
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
     font-size: 12px;
-    line-height: 42px;
+    line-height: 32px;
   }
   .parallax_shop_header .action_btns_group button.mobile_menu_btn {
     width: 40px;
@@ -25159,10 +25159,10 @@ blockquote .blockquote_title {
     min-height: 650px;
   }
   .fashion_header .action_btns_group button {
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
     font-size: 14px;
-    line-height: 40px;
+    line-height: 32px;
   }
   .fashion_deals_wrap .tabs_nav a {
     padding: 10px;
@@ -25712,16 +25712,16 @@ blockquote .blockquote_title {
   /* home motorcycle - end */
   /* home parallax shop - start */
   .parallax_shop_header .action_btns_group button {
-    width: 35px;
-    height: 35px;
+    width: 30px;
+    height: 30px;
     font-size: 10px;
-    line-height: 37px;
+    line-height: 32px;
   }
   .parallax_shop_header .action_btns_group button.mobile_menu_btn {
-    width: 35px;
-    height: 35px;
+    width: 30px;
+    height: 30px;
     font-size: 12px;
-    line-height: 35px;
+    line-height: 32px;
   }
   .ps_explore_item p {
     font-size: 14px;
@@ -26092,7 +26092,7 @@ blockquote .blockquote_title {
     width: 30px;
     height: 30px;
     font-size: 10px;
-    line-height: 30px;
+    line-height: 32px;
   }
   /* home parallax shop - end */
   /* home sports - start */
@@ -26162,10 +26162,10 @@ blockquote .blockquote_title {
   /* home watch - end */
   /* fashion shop - start */
   .fashion_header .action_btns_group button {
-    width: 35px;
-    height: 35px;
+    width: 30px;
+    height: 30px;
     font-size: 12px;
-    line-height: 35px;
+    line-height: 32px;
   }
   /* fashion shop - end */
   /* gadget shop details - start */
