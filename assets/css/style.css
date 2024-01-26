@@ -1225,7 +1225,7 @@ button {
 }
 
 .bg_default_red {
-  background-color: #ce0b2b;
+  background-color: #000000;
 }
 
 .bg_danger {
@@ -8066,7 +8066,7 @@ button {
   display: table;
   color: #000000;
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 100;
 }
 
 .ecommerce_product_grid .product_color {
@@ -17782,7 +17782,7 @@ blockquote .blockquote_title {
 }
 
 .shop_details .popular_products_area .title_text {
-  font-size: 35px;
+  font-size: 20px;
 }
 
 /* details section - end */
